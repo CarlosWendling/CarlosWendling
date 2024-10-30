@@ -1,6 +1,6 @@
 # Hi, I'm Cadu! 👋
 
-:closed_book: Studing Computer Science at Unisinos, currently in the second semester.
+:closed_book: I'm studing Computer Science at Unisinos.
 <br>
 <br>
 :bulb: Always trying to learn something new and improving myself.

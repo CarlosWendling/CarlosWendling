@@ -15,7 +15,7 @@
 If you ever want to contact me, here are some ways:
 <br>
 <br>
-:email: Email: cadupw2004@gmail.com
+:email: Email: cadupolidori@gmail.com
 <br>
 <br>
 :link: Linkedln: [Carlos Wendling](https://www.linkedin.com/in/carlos-polidori-wendling/)
